@@ -1,6 +1,6 @@
 # 🎭 El Impostor - Juego en Python
 
-Un juego programado en Python con interfaz gráfica en Tkinter. ¡Perfecto para jugar en clase!
+Un juego tipo "Among Us" programado en Python con interfaz gráfica en Tkinter. ¡Perfecto para jugar en clase!
 
 ## 📋 Descripción
 

@@ -2,8 +2,8 @@
 
 import tkinter as tk
 from tkinter import messagebox
-from gráficos import VentanaJuego
-from partida import Partida
+from juego.gráficos import VentanaJuego
+from juego.partida import Partida
 
 class AplicacionJuego:
     def __init__(self, root):
